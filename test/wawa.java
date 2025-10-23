@@ -1,4 +1,6 @@
 package test;
 public class wawa {
-  double yay = 1;
+    public static class wrap {
+        double yay = 1;
+    }
 }
